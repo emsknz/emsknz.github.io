@@ -7,7 +7,7 @@ If you're here, you have either been exposed to <i>EmsK Rants About Phishing Sim
 Phishing training and/or phishing simulations. They're an inextricable part of the security landscape these days. Chances are you've been exposed to them, been asked to run them, and have strong opinions about them (what is a security person without strong opinions? do those even exist?) 
 
 Let's look at the goals most orgs <i>say</i> they have.  
-<ul><li>A more secure organisation.</li><li>Well educated end users</li><li><sub>Appeasing the various audit bodies, cyber insurers, and other bureaucratic behemoths overshadowing the day job.</sub></li></ul>
+<ul><li>A more secure organisation.</li><li>Well educated end users</li><sub><li>Appeasing the various audit bodies, cyber insurers, and other bureaucratic behemoths overshadowing the day job.</li></sub></ul>
 
 Nice goals; let's look at reality. 
 <ul><li>People <s>are stupid</s> make mistakes.</li></ul>
