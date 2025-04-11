@@ -15,8 +15,7 @@ Nice goals; let's look at reality.
 <h2>You cannot train people out of human error.</h2>
 
 Just witness every single IT Security person ever who's fallen for a phish, clicked on the "free things!" scam, had their credit card details lifted online... 
-<center><a href="https://www.mimecast.com/the-state-of-email-and-collaboration-security-2024"><img src="https://emsknz.github.io/images/mimecast_2024.png"></a>
-  <i>Mimecast 2024</i></center>
+<center><a href="https://www.mimecast.com/the-state-of-email-and-collaboration-security-2024"><img src="https://emsknz.github.io/images/mimecast_2024.png"></a><br><i>Mimecast 2024</i></center>
 
 "But the CIO says I have to run phishing simulations."
 
