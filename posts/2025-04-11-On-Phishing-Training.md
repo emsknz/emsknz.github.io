@@ -17,15 +17,15 @@ Nice goals; let's look at reality.
 <h2>You cannot train people out of human error.</h2>
 
 Just witness every single IT Security person ever who's fallen for a phish, clicked on the "free things!" scam, had their credit card details lifted online... 
-<a href="https://www.mimecast.com/the-state-of-email-and-collaboration-security-2024"><img src="https://emsknz.github.io/images/mimecast_2024.png"></a>
+<center><a href="https://www.mimecast.com/the-state-of-email-and-collaboration-security-2024"><img src="https://emsknz.github.io/images/mimecast_2024.png"></a></center>
 
 "But the CIO says I have to run phishing simulations."
 
 Well, yeah, of course they do. They're dealing with the aforementioned bureaucratic behemoths that all advocate phishing simulations. 
-
-<img src="https://emsknz.github.io/images/stolen_creds.png">
+<center>
+<img src="https://emsknz.github.io/images/stolen_creds.png"><br>
 <img src="https://emsknz.github.io/images/falling_for_phishing_fast.png">
-
+</center>
 "But my users are really smart!" 
 
 Mate, so are mine.  And in every simulation campaign we've run since 2017, at least one person falls for it in under sixty seconds.  People are, first and foremost, PEOPLE. 
