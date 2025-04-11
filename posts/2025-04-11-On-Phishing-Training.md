@@ -55,6 +55,11 @@ Phishing-resistant multifactor authentication. Endpoint protection. URL filterin
 
 And for the love of little apples, don't get punitive about it.  People are going to make mistakes. YOU are going to make mistakes. 
 
-We're there to support the business.  Our security training - which every employee has to do as part of onboarding, and yearly as a refresher - focuses on that fact. We're there to HELP. TALK to us.  Use the button in Outlook. Pick up the phone.  
+We're there to support the business.  Our security training - which every employee has to do as part of onboarding, and yearly as a refresher - focuses on that fact. We're there to HELP. TALK to us. Use the button in Outlook. Pick up the phone. 
+
+<b>Summary:</b>
+Phishing is a fact of life. Phishing simulations are probably a fact of life. 
+
+We can use the tools to work together, to uplift the businesses we support, and help out our people. 
 
 <a href="https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html">The Google blog "On Fire Drills and Phishing Tests"</a> is a great read. Please go read it.  
