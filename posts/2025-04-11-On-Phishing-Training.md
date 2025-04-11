@@ -15,7 +15,7 @@ Nice goals; let's look at reality.
 <h2>You cannot train people out of human error.</h2>
 
 Just witness every single IT Security person ever who's fallen for a phish, clicked on the "free things!" scam, had their credit card details lifted online... 
-<center><a href="https://www.mimecast.com/the-state-of-email-and-collaboration-security-2024"><img src="https://emsknz.github.io/images/mimecast_2024.png"></a></center>
+<center><a href="https://www.mimecast.com/the-state-of-email-and-collaboration-security-2024"><img src="https://emsknz.github.io/images/mimecast_2024.png"></a><i>Mimecast 2024</i></center>
 
 "But the CIO says I have to run phishing simulations."
 
@@ -27,6 +27,7 @@ Well, yeah, of course they do. They're dealing with the aforementioned bureaucra
 <img src="https://emsknz.github.io/images/falling_for_phishing_fast.png">
 </center>
 </div>
+<br><br>
 "But my users are really smart!" 
 
 Mate, so are mine.  And in every simulation campaign we've run since 2017, at least one person falls for it in under sixty seconds.  People are, first and foremost, PEOPLE. 
@@ -35,10 +36,11 @@ It is their JOB to read the emails in their inbox and click on the links.  It is
 
 But, your CEO says you have to run phishing simulations, etc.  So, Instead of arguing about it, let's reframe it and get something useful out of the exercise. 
 
-What do your mail stats look like? At my org, about 10% get blocked at the gateway; 2.5% of mail gets blocked as phishing/malware/etc; and about that amount gets ZAPed after delivery.  
-I am not here to be sold things by vendors. If you're a mail gateway vendor and you can prove to me that you block ALL phishing and never accidentally block necessary email, we can talk, and while we're at it I'd like a pony.  
+<b>What do your mail stats look like? </b>
+At my org, about 10% gets blocked at the gateway; 2.5% gets blocked as phishing/malware/etc; and about that amount gets ZAPed after delivery.  
+<sub>I am not here to be sold things by vendors. If you're a mail gateway vendor and you can prove to me that you block ALL phishing and never accidentally block necessary email, we can talk, and while we're at it I'd like a pony.</sub>
 
-So you know phishing is getting through to the inbox. What do your people do with it? 
+So you <b>know</b> phishing is getting through to the inbox. What do your people do with it? 
 
 Our simulated phishing campaigns, which we've run using one platform or another since 2017, tell us the following:
 <ul><li>approx 30% of our people click the little "report message" button in Outlook</li><li>approx 10% of our people click the links, depending on the believability of the campaign</li><li>approx 1% of our people enter the creds</li></ul>
@@ -63,5 +65,5 @@ We're there to support the business.  Our security training - which every employ
 Phishing is a fact of life. Phishing simulations are probably a fact of life. 
 
 We can use the tools to work together, to uplift the businesses we support, and help out our people. 
-
+<hr>
 <a href="https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html">The Google blog "On Fire Drills and Phishing Tests"</a> is a great read. Please go read it.  
