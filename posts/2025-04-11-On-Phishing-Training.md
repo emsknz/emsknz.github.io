@@ -1,9 +1,7 @@
 ---
-title: "On Phishing Training"
+title: "On Phishing Training And Phishing Simulations: The Rant"
 date: 2025-04-11
 ---
-<h1>The Regular Emsk Rant on Phishing Simulations</h1>
-
 If you're here, you have either been exposed to <i>EmsK Rants About Phishing Simulations</i> before, or inexplicably the Internet has led you here. Welcome. 
 
 Phishing training and/or phishing simulations. They're an inextricable part of the security landscape these days. Chances are you've been exposed to them, been asked to run them, and have strong opinions about them (what is a security person without strong opinions? do those even exist?) 
@@ -17,7 +15,9 @@ Nice goals; let's look at reality.
 <h2>You cannot train people out of human error.</h2>
 
 Just witness every single IT Security person ever who's fallen for a phish, clicked on the "free things!" scam, had their credit card details lifted online... 
-<center><a href="https://www.mimecast.com/the-state-of-email-and-collaboration-security-2024"><img src="https://emsknz.github.io/images/mimecast_2024.png"></a></center>
+<center><a href="https://www.mimecast.com/the-state-of-email-and-collaboration-security-2024">
+  
+  <img src="https://emsknz.github.io/images/mimecast_2024.png"></a></center>
 
 "But the CIO says I have to run phishing simulations."
 
