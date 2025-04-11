@@ -39,7 +39,7 @@ But, your CEO says you have to run phishing simulations, etc.  So, Instead of ar
 Phishing simulations are great.  They prove to your business that, in fact, you are fallible humans just like all the other billions of fallible humans on the planet.  
 
 The outcome of our campaigns (which we've run using one platform or another since 2018) tell us the following:
-<ul><li></li>approx 30% of our people click the little "report message" button in Outlook.</li><li>approx [redacted]% depending of our people click the links.</li><li>approx [redacted]% of our people enter the creds.</li></ul>
+<ul><li>approx 30% of our people click the little "report message" button in Outlook.</li><li>approx [redacted]% depending of our people click the links.</li><li>approx [redacted]% of our people enter the creds.</li></ul>
 
 This is consistent and reproducible every time. 
 
