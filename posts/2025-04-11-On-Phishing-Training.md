@@ -34,14 +34,35 @@ Mate, so are mine.  And in every simulation campaign we've run since 2017, at le
 
 It is their JOB to read the emails in their inbox and click on the links.  It is their JOB to download that invoice from the supplier, to open the quotation, to read the document their colleague just sent them.  Phishing gets more and more believable every day. You know this. I know this. So why do we expect our end users to somehow magically get everything right? 
 
-But, your CEO says you have to run phishing simulations, etc.  So, Instead of arguing about it, let's reframe it and get something useful out of the exercise. 
+But, your CEO says you have to run phishing simulations, etc.  So, Instead of arguing about it<sup>1</sup>, let's reframe it and get something useful out of the exercise.
+
+Remember those goals?
+<ul><li>Well educated end users</li><li>A more secure organisation.</li></ul>
+
+<h3>Goal one: Training</h3>
+
+First, you should have a training program.  Phishing simulations <b>ARE NOT TRAINING I WILL DIE ON THAT HILL</b> phishing simulations are a simulated <i>attack</i>. 
+
+Your org will have it's own goals for training, but in the phishing space, you want it to cover: 
+<ul><li>What is a phish 101</li><li>What to do if you see a phish</li></ul>
+
+And for the love of little apples, don't get punitive about it. People are going to make mistakes. YOU are going to make mistakes. 
+
+We are on the same side. Your end users need to trust Security, not to treat them like muppets when they get tricked by the weapons threat actors are using to break into our organisations. 
+
+My org's security training - which every employee has to do as part of onboarding, and yearly as a refresher - focuses on that fact. We're there to HELP. TALK to us. Use the button in Outlook. Pick up the phone. 
+
+<h3>goal two: A more secure org</h3>
+
+Okay, training is out of the way. How can you use the phishing simulations you're required to run to help improve security? 
+
+Another hill I will die on: your phishing simulations <b>should not be cruel</b>.  Don't target your people with financial attacks, or HR themed attacks.  Look at the real phishing you get, every day. Use that. You want to know REAL stats about your REAL organisation, not to prove that you're a clever enough asshat to fool everyone in the business into clicking on your super custom crafted email that looks super realistic built with insider knowledge.  
 
 <b>What do your mail stats look like? </b>
 
-At my org, about 10% gets blocked at the gateway; 2.5% gets blocked as phishing/malware/etc; and about that amount gets ZAPed after delivery.  
-<sub>I am not here to be sold things by vendors. If you're a mail gateway vendor and you can prove to me that you block ALL phishing and never accidentally block necessary email, we can talk, and while we're at it I'd like a pony.</sub>
+At my org, about 10% gets blocked at the gateway; 2.5% gets blocked as phishing/malware/etc; and about that amount gets ZAPed after delivery<sup>2</sup>.  
 
-So you <b>know</b> phishing is getting through to the inbox. What do your people do with it? 
+So we <b>know</b> phishing is getting through to the inbox. What do your people do with it? 
 
 Our simulated phishing campaigns, which we've run using one platform or another since 2017, tell us the following:
 <ul><li>approx 30% of our people click the little "report message" button in Outlook</li><li>approx 10% of our people click the links, depending on the believability of the campaign</li><li>approx 1% of our people enter the creds</li></ul>
@@ -56,15 +77,22 @@ Our successful simulated phishes include people from every level and role across
 
 "Hello, Finance Department, please provide monies so that defense in depth can continue to happen."
 
-Phishing-resistant multifactor authentication. Endpoint protection. URL filtering. CASB. Your SIEM and SOC. Whatever it is that would <b>practically</b> enhance your security posture.  
+I don't know what your org needs. Investment in phishing-resistant multifactor authentication? Endpoint protection? URL filtering? CASB? Your SIEM and SOC? DLP? 
 
-And for the love of little apples, don't get punitive about it.  People are going to make mistakes. YOU are going to make mistakes. 
+Well, now you've got stats providing justifiction for ... whatever it is that would <b>practically</b> enhance your security posture. 
 
-We're there to support the business.  Our security training - which every employee has to do as part of onboarding, and yearly as a refresher - focuses on that fact. We're there to HELP. TALK to us. Use the button in Outlook. Pick up the phone. 
 
-<b>Summary:</b>
+<h3>Summary:</h3>
 Phishing is a fact of life. Phishing simulations are probably a fact of life. 
 
-We can use the tools to work together, to uplift the businesses we support, and help out our people. 
+Let's use the tools we have to work WITH our people, to uplift our organisations, and make our corners of the world a slightly better place. 
+
 <hr>
-<a href="https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html">The Google blog "On Fire Drills and Phishing Tests"</a> is a great read. Please go read it.  
+
+Footnotes
+
+<ol><li>Yes, there are very good arguments for not doing phishing simulations at all.  That discussion is for another day.</li><li>I am not here to be sold things by vendors. If you're a mail gateway vendor and you can prove to me that you block ALL phishing and never accidentally block necessary email, we can talk, and while we're at it I'd like a pony.</li></ol>
+
+References:
+
+<a href="https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html">The Google blog "On Fire Drills and Phishing Tests"</a> is a great read.
