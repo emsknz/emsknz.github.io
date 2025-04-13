@@ -96,7 +96,7 @@ Let's use the tools we have to work WITH our people, to uplift our organisations
 
 Footnotes
 
-<ol><li id="#footnote-1">Yes, there are very good arguments for not doing phishing simulations at all.  That discussion is for another day.</li><li id="#footnote-2">I am not here to be sold things by vendors. If you're a mail gateway vendor and you can prove to me that you block ALL phishing and never accidentally block necessary email, we can talk, and while we're at it I'd like a pony.</li></ol>
+<ol><li id="footnote-1">Yes, there are very good arguments for not doing phishing simulations at all.  That discussion is for another day.</li><li id="footnote-2">I am not here to be sold things by vendors. If you're a mail gateway vendor and you can prove to me that you block ALL phishing and never accidentally block necessary email, we can talk, and while we're at it I'd like a pony.</li></ol>
 
 References:
 
