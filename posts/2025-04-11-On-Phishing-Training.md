@@ -7,15 +7,20 @@ If you're here, you have either been exposed to <i>EmsK Rants About Phishing Sim
 Phishing training and/or phishing simulations. They're an inextricable part of the security landscape these days. Chances are you've been exposed to them, been asked to run them, and have strong opinions about them (what is a security person without strong opinions? do those even exist?) 
 
 Let's look at the goals most orgs <i>say</i> they have.  
-<ul><li>A more secure organisation.</li><li>Well educated end users</li><sub><li>Appeasing the various audit bodies, cyber insurers, and other bureaucratic behemoths overshadowing the day job.</li></sub></ul>
+<ul><li>Well educated end users</li><li>A more secure organisation.</li></ul>
+  
+Let's look at the goals most orgs have.  
+<ul><li>Appeasing the various audit bodies, cyber insurers, and other bureaucratic behemoths overshadowing the day job.</li></ul>
 
-Nice goals; let's look at reality. 
-<ul><li>People <s>are stupid</s> make mistakes.</li></ul>
+Okay, let's look at the goals that are handed to you in Security. 
+<ul><li>Make people stop clicking on phishing, so that I can report security posture improvements to the Board next quarter.</li></ul>
+
+Reality check: 
 
 <h2>You cannot train people out of human error.</h2>
 
 Just witness every single IT Security person ever who's fallen for a phish, clicked on the "free things!" scam, had their credit card details lifted online... 
-<center><a href="https://www.mimecast.com/the-state-of-email-and-collaboration-security-2024"><img src="https://emsknz.github.io/images/mimecast_2024.png"></a><br><i>Mimecast 2024</i></center>
+<center><a href="https://www.mimecast.com/the-state-of-email-and-collaboration-security-2024"><img src="https://emsknz.github.io/images/mimecast_2024.png"></a><br><i>Mimecast 2024</i></center><br>
 
 "But the CIO says I have to run phishing simulations."
 
@@ -48,13 +53,13 @@ Your org will have it's own goals for training, but in the phishing space, you w
 
 And for the love of little apples, don't get punitive about it. People are going to make mistakes. YOU are going to make mistakes. 
 
-We are on the same side. Your end users need to trust Security, not to treat them like muppets when they get tricked by the weapons threat actors are using to break into our organisations. 
+We are on the same side. Your end users need to trust Security, not to treat them like muppets when they inevitably get tricked by the weapons threat actors are using to break into our organisations. 
 
-My org's security training - which every employee has to do as part of onboarding, and yearly as a refresher - focuses on that fact. We're there to HELP. TALK to us. Use the button in Outlook. Pick up the phone. 
+My org's security training - which every employee has to do as part of onboarding, and yearly as a refresher - focuses on that fact. We're there to HELP. TALK to us. Use the button in Outlook. Pick up the phone. Do whatever the thing is in your organisation to get in contact with IT, and make sure that your IT and Security teams are kind when they get those calls.  
 
-<h3>goal two: A more secure org</h3>
+<h3>goal two: A more secure organisation</h3>
 
-Okay, training is out of the way. How can you use the phishing simulations you're required to run to help improve security? 
+Okay, training is done. How can you use the phishing simulations you're required to run to help improve security? 
 
 Another hill I will die on: your phishing simulations <b>should not be cruel</b>.  Don't target your people with financial attacks, or HR themed attacks.  Look at the real phishing you get, every day. Use that. You want to know REAL stats about your REAL organisation, not to prove that you're a clever enough asshat to fool everyone in the business into clicking on your super custom crafted email that looks super realistic built with insider knowledge.  
 
