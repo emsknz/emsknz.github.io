@@ -54,7 +54,7 @@ Your org will have it's own goals for training, but in the phishing space, you w
 
 And for the love of little apples, don't get punitive about it. People are going to make mistakes. YOU are going to make mistakes. 
 
-We are on the same side. Your end users need to trust Security, not to treat them like muppets when they inevitably get tricked by the weapons threat actors are using to break into our organisations. 
+We are on the same side. Your end users need to trust Security, and believe that we'll help them. Don't treat users like muppets when they <i>inevitably</i> get tricked by the weapons threat actors are using to break into our organisations. 
 
 My org's security training - which every employee has to do as part of onboarding, and yearly as a refresher - focuses on that fact. We're there to HELP. TALK to us. Use the button in Outlook. Pick up the phone. Do whatever the thing is in your organisation to get in contact with IT, and make sure that your IT and Security teams are kind when they get those calls.  
 
