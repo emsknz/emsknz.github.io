@@ -39,7 +39,7 @@ Mate, so are mine.  And in every simulation campaign we've run since 2017, at le
 
 It is their JOB to read the emails in their inbox and click on the links.  It is their JOB to download that invoice from the supplier, to open the quotation, to read the document their colleague just sent them.  Phishing gets more and more believable every day. You know this. I know this. So why do we expect our end users to somehow magically get everything right? 
 
-But, your CEO says you have to run phishing simulations, etc.  So, Instead of arguing about it<sup>1</sup>, let's reframe it and get something useful out of the exercise.
+But, your CEO says you have to run phishing simulations, etc.  So, Instead of arguing about it<sup><a href="#footnote-1">1</a></sup>, let's reframe it and get something useful out of the exercise.
 
 Remember those goals?
 <ul><li>Well educated end users</li><li>A more secure organisation.</li></ul>
@@ -57,7 +57,7 @@ We are on the same side. Your end users need to trust Security, not to treat the
 
 My org's security training - which every employee has to do as part of onboarding, and yearly as a refresher - focuses on that fact. We're there to HELP. TALK to us. Use the button in Outlook. Pick up the phone. Do whatever the thing is in your organisation to get in contact with IT, and make sure that your IT and Security teams are kind when they get those calls.  
 
-<h3>goal two: A more secure organisation</h3>
+<h3>Goal two: A more secure organisation</h3>
 
 Okay, training is done. How can you use the phishing simulations you're required to run to help improve security? 
 
@@ -65,7 +65,7 @@ Another hill I will die on: your phishing simulations <b>should not be cruel</b>
 
 <b>What do your mail stats look like? </b>
 
-At my org, about 10% gets blocked at the gateway; 2.5% gets blocked as phishing/malware/etc; and about that amount gets ZAPed after delivery<sup>2</sup>.  
+At my org, about 10% gets blocked at the gateway; 2.5% gets blocked as phishing/malware/etc; and about that amount gets ZAPed after delivery<sup><a href="#footnote-2">2</a></sup>.  
 
 So we <b>know</b> phishing is getting through to the inbox. What do your people do with it? 
 
@@ -96,7 +96,7 @@ Let's use the tools we have to work WITH our people, to uplift our organisations
 
 Footnotes
 
-<ol><li>Yes, there are very good arguments for not doing phishing simulations at all.  That discussion is for another day.</li><li>I am not here to be sold things by vendors. If you're a mail gateway vendor and you can prove to me that you block ALL phishing and never accidentally block necessary email, we can talk, and while we're at it I'd like a pony.</li></ol>
+<ol><li id="#footnote-1">Yes, there are very good arguments for not doing phishing simulations at all.  That discussion is for another day.</li><li id="#footnote-2">I am not here to be sold things by vendors. If you're a mail gateway vendor and you can prove to me that you block ALL phishing and never accidentally block necessary email, we can talk, and while we're at it I'd like a pony.</li></ol>
 
 References:
 
