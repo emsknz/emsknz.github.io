@@ -24,7 +24,8 @@ Just witness every single IT Security person ever who's fallen for a phish, clic
 
 "But the CIO says I have to run phishing simulations."
 
-Well, yeah, of course they do. They're dealing with the aforementioned bureaucratic behemoths that all advocate phishing simulations. 
+Well, yeah, of course they do. They're dealing with the aforementioned bureaucratic behemoths that all advocate phishing simulations. <br><sub>Also  vendors, other C-levels at other orgs who've been told and sold the same thing, and look is this the conversation you really want to have or do you want to spend your time in more useful ways...?</sub>
+
 <div style="background-color:black; width:100%;">
   <center>
 <img src="https://emsknz.github.io/images/stolen_creds.png">
@@ -39,7 +40,7 @@ Mate, so are mine.  And in every simulation campaign we've run since 2017, at le
 
 It is their JOB to read the emails in their inbox and click on the links.  It is their JOB to download that invoice from the supplier, to open the quotation, to read the document their colleague just sent them.  Phishing gets more and more believable every day. You know this. I know this. So why do we expect our end users to somehow magically get everything right? 
 
-But, your CEO says you have to run phishing simulations, etc.  So, Instead of arguing about it<sup><a href="#footnote-1">1</a></sup>, let's reframe it and get something useful out of the exercise.
+But, your CIO says you have to run phishing simulations, etc.  So, Instead of arguing about it<sup><a href="#footnote-1">1</a></sup>, let's reframe it and get something useful out of the exercise.
 
 Remember those goals?
 <ul><li>Well educated end users</li><li>A more secure organisation.</li></ul>
